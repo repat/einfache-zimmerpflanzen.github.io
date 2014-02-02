@@ -2,24 +2,24 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://einfache-zimmerpflanzen.github.io/blog/2014/02/02/hello-world-of-zimmerpflanzen/
+            http://einfache-zimmerpflanzen.de//blog/2014/02/02/hello-world-of-zimmerpflanzen/
         </loc>
         <lastmod>2014-02-02T18:15:28+01:00</lastmod>
     </url>
     <url>
-        <loc>http://einfache-zimmerpflanzen.github.io/blog/archives/</loc>
+        <loc>http://einfache-zimmerpflanzen.de//blog/archives/</loc>
         <lastmod>2014-02-02T18:15:28+01:00</lastmod>
     </url>
     <url>
-        <loc>http://einfache-zimmerpflanzen.github.io/robots.txt</loc>
+        <loc>http://einfache-zimmerpflanzen.de//robots.txt</loc>
         <lastmod>2014-02-02T17:09:47+01:00</lastmod>
     </url>
     <url>
-        <loc>http://einfache-zimmerpflanzen.github.io/uber-uns/</loc>
+        <loc>http://einfache-zimmerpflanzen.de//uber-uns/</loc>
         <lastmod>2014-02-02T19:00:39+01:00</lastmod>
     </url>
     <url>
-        <loc>http://einfache-zimmerpflanzen.github.io/</loc>
+        <loc>http://einfache-zimmerpflanzen.de//</loc>
         <lastmod>2014-02-02T18:15:28+01:00</lastmod>
     </url>
 </urlset>
