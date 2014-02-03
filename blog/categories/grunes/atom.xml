@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Einfache Zimmerpflanzen]]></title>
-  <link href="http://einfache-zimmerpflanzen.de/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Grünes | Einfache Zimmerpflanzen]]></title>
+  <link href="http://einfache-zimmerpflanzen.de/blog/categories/grunes/atom.xml" rel="self"/>
   <link href="http://einfache-zimmerpflanzen.de/"/>
   <updated>2014-02-03T03:34:21+01:00</updated>
   <id>http://einfache-zimmerpflanzen.de/</id>
@@ -51,16 +51,6 @@ Die Kindel sollten nicht unbedingt direkt auf einer Heizung liegen, sonst trockn
 <h2>Woher bekommt man sie?</h2>
 
 <p>TODO</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hallo Welt Der Zimmerpflanzen]]></title>
-    <link href="http://einfache-zimmerpflanzen.de/blog/2014/02/02/hallo-welt-der-zimmerpflanzen/"/>
-    <updated>2014-02-02T17:44:12+01:00</updated>
-    <id>http://einfache-zimmerpflanzen.de/blog/2014/02/02/hallo-welt-der-zimmerpflanzen</id>
-    <content type="html"><![CDATA[<p>Willkommen beim <em>einfachen Zimmerpflanzen Blog</em>.
-Hier werden in nächster Zeit Zimmerpflanzen vorgestellt, die einfach zu halten sind. Wichtig ist uns dabei, dass man diese Pflanzen längere Zeit vernachlässigen kann, z.B. wenn man in den Urlaub fährt oder die Kollegen bei der Arbeit sich nicht um Pflanzen kümmern. Außerdem sollte sie anspruchslos im Bezug auf Wasserqualität, Sonnenlicht und (falsche) Handhabung sein. Wenn sie dabei auch noch kostengünstig oder vielleicht sogar kostenlos erhältlich ist, umso besser!</p>
 ]]></content>
   </entry>
   
