@@ -11,6 +11,7 @@ footer: true
 ## Kontakt
 * [einfache-zimmerpflanzen@repat.de](mailto:einfache-zimmerpflanzen@repat.de)([PGP](http://repat.de/files/repat_pub_key.asc))
 * [@einfachzimmerpf](https://twitter.com/einfachzimmerpf)
+* [einfachezimmerpflanzen](https://facebook.com/einfachzimmerpf)
 * [repat@jabber.ccc.de](xmpp:repat@jabber.ccc.de)
 
 ## Unterstützung
