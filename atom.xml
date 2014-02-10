@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Einfache Zimmerpflanzen]]></title>
+  <link href="http://einfache-zimmerpflanzen.de/atom.xml" rel="self"/>
+  <link href="http://einfache-zimmerpflanzen.de/"/>
+  <updated>2014-02-03T03:45:47+01:00</updated>
+  <id>http://einfache-zimmerpflanzen.de/</id>
+  <author>
+    <name><![CDATA[repat]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Grünlilie]]></title>
+    <link href="http://einfache-zimmerpflanzen.de/blog/2014/02/03/grunlilie/"/>
+    <updated>2014-02-03T02:49:34+01:00</updated>
+    <id>http://einfache-zimmerpflanzen.de/blog/2014/02/03/grunlilie</id>
+    <content type="html"><![CDATA[<h2>Wikipedia</h2>
+
+<p>Wikipedia Plugin wird gefixt.</p>
+
+<h2>Gallerie</h2>
+
+<p>Bilder folgen.</p>
+
+<h2>Allgemeines</h2>
+
+<p>Die Grünlilie ist der Klassiker unter den unverwüstbaren Zimmerpflanzen; man findet sie fast überall.
+Dies ist die optimale Pflanze für Leute, bei denen sonst selbst Plastikpflanzen eingehen.
+Die meiste Zeit über hat sie einfach nur grüne Blätter, kann aber bei entsprechender Düngung und Sonne sogar
+kleine hübsche Blüten hervorbringen.</p>
+
+<h2>Gießen, Düngen, Sonne</h2>
+
+<p>Man sollte die Grünlilie alle paar Tage mal gießen. Vergisst man es, ist es allerdings nichts so schlimm. Einfach beim nächsten Mal ein
+bisschen mehr gießen, es macht nichts, wenn sie ein bisschen im Wasser steht.</p>
+
+<p>Düngen braucht man sie eigentlich nicht, wenn sie einfach nur vor sich hinwachsen soll. Möchte man gerne Sprößlinge(sog. Kindel) bekommen(s. auch <em>Woher bekommt man sie</em>), dann sollte man
+sie mit Flüssigdünger(s. Düngerartikel) alle paar Wochen mal Düngen.</p>
+
+<p>Am besten stellt man sie nicht in die pralle Sonne, aber auch nicht ganz schattig.
+Die Kindel sollten nicht unbedingt direkt auf einer Heizung liegen, sonst trocknen sie ein.</p>
+
+<h2>Besonderes</h2>
+
+<p>Laut der deutschen Wikipedia besitzt die Grünlilie eine besonders gute Fähigkeit, die Formaldehyd-Konzentration in Innenräumen zu senken und wurde daher in einer wissenschaftlichen Studie zur Luftverbesserung in Niedrigenergiehäusern vorgeschlagen.</p>
+
+<h2>Woher bekommt man sie?</h2>
+
+<p>TODO</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hallo Welt Der Zimmerpflanzen]]></title>
+    <link href="http://einfache-zimmerpflanzen.de/blog/2014/02/02/hallo-welt-der-zimmerpflanzen/"/>
+    <updated>2014-02-02T17:44:12+01:00</updated>
+    <id>http://einfache-zimmerpflanzen.de/blog/2014/02/02/hallo-welt-der-zimmerpflanzen</id>
+    <content type="html"><![CDATA[<p>Willkommen beim <em>einfachen Zimmerpflanzen Blog</em>.
+Hier werden in nächster Zeit Zimmerpflanzen vorgestellt, die einfach zu halten sind. Wichtig ist uns dabei, dass man diese Pflanzen längere Zeit vernachlässigen kann, z.B. wenn man in den Urlaub fährt oder die Kollegen bei der Arbeit sich nicht um Pflanzen kümmern. Außerdem sollte sie anspruchslos im Bezug auf Wasserqualität, Sonnenlicht und (falsche) Handhabung sein. Wenn sie dabei auch noch kostengünstig oder vielleicht sogar kostenlos erhältlich ist, umso besser!</p>
+]]></content>
+  </entry>
+  
+</feed>
