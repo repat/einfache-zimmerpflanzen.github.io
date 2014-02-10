@@ -6,7 +6,7 @@ comments: true
 categories: Grünes
 ---
 ## Wikipedia
-Wikipedia Plugin wird gefixt.
+{% wikipedia Beamtengras lang:de %}
 
 ## Gallerie
 Bilder folgen.
